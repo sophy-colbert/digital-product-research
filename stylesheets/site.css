@@ -365,7 +365,7 @@ textarea {
   /* 2 */ }
 
 body {
-  background: #ECC561;
+  background: #000000;
   text-align: center;
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1em; }
@@ -375,9 +375,9 @@ body {
   margin-top: 6em; }
 
 h1 {
-  color: rgba(0, 0, 0, 0.5);
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.8em;
+  color: #F5F5DC;
+  font-family: "Reenie Beanie", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15em;
   font-weight: 400;
   margin: 0; }
 
